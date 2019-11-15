@@ -24,7 +24,7 @@ public class TextInterface {
 
 		showEntryScreen();
 	}
-
+//hello
 	static void showEntryScreen() {
 
 		int option = 0;
